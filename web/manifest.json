@@ -1,0 +1,11 @@
+{
+  "name": "Contador",
+  "short_name": "Contador",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "description": "Aplicacion de Contador en Flutter",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
